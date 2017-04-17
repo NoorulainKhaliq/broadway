@@ -6,6 +6,10 @@ body {
 h1,h2,h3 {
   font-weight: bold;
 }
+#main, #logo p {
+  background-image: url(/Users/Noorulain/broadway/resources/images/flatiron.png);
+  color: white;
+}
 
 #main h1 {
   font-size: 70px;
@@ -15,7 +19,6 @@ h1,h2,h3 {
 #main {
   background-size: cover;
   color: white;
-  background-image: url(/Users/Noorulain/broadway/resources/images/flatiron.png);
 }
 
 #main a {
@@ -26,15 +29,28 @@ h1,h2,h3 {
 h2 {
   font-size: 32px;
 }
+
 h3 {
   font-size: 23px;
 }
+
 .para {
   font-size: 14px;
 }
+
 #logo p{
   font-weight: bold;
   font-size: 23px;
+}
+
+#footer {
   color: white;
-  background-image: url(/Users/Noorulain/broadway/resources/images/flatiron.png);
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+}
+ .btn-nav {
+  color:white;
+  font-size: 18px;
+  font-weight: bold;
 }
