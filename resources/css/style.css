@@ -32,3 +32,9 @@ h3 {
 .para {
   font-size: 14px;
 }
+#logo p{
+  font-weight: bold;
+  font-size: 23px;
+  color: white;
+  background-image: url(/Users/Noorulain/broadway/resources/images/flatiron.png);
+}
