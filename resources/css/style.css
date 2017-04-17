@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+#main h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+#main {
+  background-size: cover;
+  color: white;
+  background-image: url(/Users/Noorulain/broadway/resources/images/flatiron.png);
+}
+#main a {
+  color: white;
+  font-size: 18px;
+}
